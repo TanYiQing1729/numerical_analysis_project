@@ -1,0 +1,9 @@
+{
+  "epsilon": 1e-06,
+  "k": 3,
+  "max_iter": 50000,
+  "method": "sor",
+  "mu": 0.0,
+  "n": 40,
+  "omega": 1.0
+}
